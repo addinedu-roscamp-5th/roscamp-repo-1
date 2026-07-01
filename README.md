@@ -33,7 +33,7 @@ ROS2와 AI를 활용한 자율주행 로봇개발자 부트캠프 1팀 저장소
 ## 팀 구성 및 역할
 |        | Name | Job |
 |--------|------|-----|
-| Leader | 강주빈 |  Project Manage, Manipulator, Perception |   
+| Leader | Mr. Kang |  Project Manage, Manipulator, Perception |   
 | Worker | 권상혁 |  Mobile Robot, Server, DB, GUI |   
 | Worker | 김윤복 |  Manipulator |    
 | Worker | 김주현 |  Perception, Computer Vision | 
